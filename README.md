@@ -1,6 +1,21 @@
 Hours
 =====
 
+## Next actions
+* Ability to update ogo
+* Enter description as text instead of string
+* Ability for updating start time and end-time OR, play/pause/stop as well?
+* Hours in Decimal
+* Greetings in login screen.
+* Greetings in dashboard based on time, morning, day, night! Get some sleep for night.
+* Ability to add/assign tasks.
+* Few Static pages like code of conduct.
+* Reporting: Weekly Summary
+* “New Entry” => “Record your progress”
+* Client’s persona in the panel.
+* Placeholder for description of the task.
+* Note Mechanism
+
 [![Build Status](https://travis-ci.org/DefactoSoftware/Hours.svg?branch=master)](https://travis-ci.org/DefactoSoftware/Hours)
 [![Code Climate](https://codeclimate.com/github/DefactoSoftware/Hours/badges/gpa.svg)](https://codeclimate.com/github/DefactoSoftware/Hours)
 
